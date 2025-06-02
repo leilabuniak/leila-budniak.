@@ -5,7 +5,9 @@ body{
 header{
     background-color: rgb(53, 75, 200);
     text-align: center;
+    align-items: center;
     display: flex;
+    font-size: 150;
 }
 section{
 color: antiquewhite;
