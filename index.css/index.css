@@ -1,12 +1,15 @@
 body{
     color: rgb(0, 0, 0);
+    background-image: url();
 }
 header{
     background-color: rgb(53, 75, 200);
+    text-align: center;
+    align-items: flex-end;
 }
 section{
 color: antiquewhite;
 }
 .lu{
-    background-image: url();
+    background-image: url(Dultier03320.jpg);
 }
